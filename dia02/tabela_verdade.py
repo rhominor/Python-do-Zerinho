@@ -8,3 +8,7 @@ if idade >=18 and cnh == 'sim':
 else:
     print("buh")
 # %%
+
+print("true ", bool(1))
+print("false ", bool(0))
+# %%
